@@ -1,1 +1,21 @@
+.header {
+    background-color: rgb(87, 87, 170);
+    text-align: center;
+}
 
+header h1{
+    color: white;
+    text-align: center;
+
+}
+
+.buttonStart {
+    background-color: gold ;
+   color: black;
+}
+
+.guessWord {
+    background-color: green;
+    width: 20%;
+    height: 500px;
+}
